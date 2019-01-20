@@ -1,4 +1,4 @@
-import { app, BrowserWindow } from 'electron'
+quaimport { app, BrowserWindow } from 'electron'
 
 /**
  * Set `__statics` path to static files in production;
